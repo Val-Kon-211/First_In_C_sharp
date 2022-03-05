@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace task17
 {
-    class Program
+    public class Solution
     {
         static void Main(string[] args)
         {

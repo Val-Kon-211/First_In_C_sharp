@@ -2,7 +2,7 @@
 
 namespace task11
 {
-    class Program
+    public class Solution
     {
         static void Main(string[] args)
         {

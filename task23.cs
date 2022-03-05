@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace task23
 {
-    class Program
+    public class Solution
     {
         static void Main(string[] args)
         {

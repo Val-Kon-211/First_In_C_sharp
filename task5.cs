@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace task5
 {
-    class Program
+    public class Solution
     {
         static void Main(string[] args)
         {
